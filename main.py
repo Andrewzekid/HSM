@@ -122,7 +122,7 @@ def smtp_alert(keyword,usern='andrewwang417@gmail.com',password='dhaxugvztawgjul
 
 def login():
     #click on the account button
-    locate_and_click("account.jpg",duration=0.01,tween=None)
+    locate_and_click("images/account.jpg",duration=0.01,tween=None)
 
     # #wait until the login button is located
     x,y = wait_until_image_located_on_screen("images/login.jpg",duration=4)
