@@ -7,8 +7,9 @@ Features:
   - Auto-Login
   - Detect Wanted Bags Based on keywords
   - Auto-Payment
+  - Improved Speed of detection
+  - MultiSearch Module
 
 Planned Features:
   - Screen Compatibility with medium and small screens.
-  - Improved Speed of detection
   - Compatibility with all browsers
